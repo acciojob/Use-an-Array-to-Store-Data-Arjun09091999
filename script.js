@@ -1,3 +1,3 @@
 
-let yourArray=[1,"Arjun",false,ture,55];
+var yourArray=[1,"Arjun",false,ture,55];
 console.log(yourArray.length);
